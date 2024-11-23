@@ -24,10 +24,10 @@ def load_sql_file(filepath, db_params):
 
 # Parâmetros de conexão
 db_params = {
-    'host': 'dpg-crmpgj5umphs739ipld0-a.oregon-postgres.render.com',
-    'database': 'teste_qthi',
-    'user': 'teste',
-    'password': 'YzxANlVWAXnecF1eARNWVuPd0gwVgOFb'
+    'host': 'dpg-ct0u9qu8ii6s73facj80-a.oregon-postgres.render.com',
+    'database': 'teste_python',
+    'user': 'teste_python_user',
+    'password': '4S7UvH4NQtDd3cF1eF5yIFwAhJ5hbHXZ'
 }
 
 
